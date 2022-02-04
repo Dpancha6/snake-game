@@ -58,7 +58,7 @@ Use the arrow keys to control the snake's movement:
 
 ## Screenshots
 
-![Game](https://github.com/Dpancha6/snake-game/assets/89943583/e7a659e1-1a66-4ad1-b849-85e9d60ec980)
+![Snake_Game](https://github.com/Dpancha6/snake-game/assets/89943583/e7a659e1-1a66-4ad1-b849-85e9d60ec980)
 
 
 ## Contributing
